@@ -1,5 +1,6 @@
 {
   "name": "workflowsplayground",
+  "homepage": "https://kasperado.github.io/WorkflowsPlayground/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
